@@ -1,18 +1,6 @@
 aaaa
 B : 1111
-<<<<<<< HEAD
-
-asdowkalsdja
-sdasdjalsda
-sdajksdas
-dasdjas
-dajsdads
-asdkasjd
-asdhasda
-sdadasd
-=======
 B ： 222
->>>>>>> 4ef64da8b8ea1d7d5dfe9f46497e7ec41eceec39
 
 aa
 a
